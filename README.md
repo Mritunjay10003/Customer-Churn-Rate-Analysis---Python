@@ -81,5 +81,5 @@ A deep dive was performed into the dataset using:
 📧 Email: mritunjaysingh.as@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/mritunjaysingh10003](https://linkedin.com/in/mritunjaysingh10003)  
 
-
+> 🧠 *“There were 5 exabytes of information created between the dawn of civilization through 2003, but that much information is now created every two days*- Eric Schmidt, Executive Chairman at Google
 
