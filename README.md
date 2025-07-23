@@ -75,3 +75,11 @@ A deep dive was performed into the dataset using:
 
 ---
 
+## 📬 Contact
+
+**Mritunjay Singh**  
+📧 Email: mritunjaysingh.as@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/mritunjaysingh10003](https://linkedin.com/in/mritunjaysingh10003)  
+
+
+
